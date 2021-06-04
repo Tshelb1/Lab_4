@@ -1,0 +1,20 @@
+\begin{theindex}
+
+  \item {cipher\_error}, \hyperpage{7}
+  \item {CoderPermutationCipher}
+    \subitem {PermutationCipher}, \hyperpage{9}
+
+  \indexspace
+
+  \item {DecoderPermutationCipher}
+    \subitem {PermutationCipher}, \hyperpage{9}
+
+  \indexspace
+
+  \item {PermutationCipher}, \hyperpage{8}
+    \subitem {CoderPermutationCipher}, \hyperpage{9}
+    \subitem {DecoderPermutationCipher}, \hyperpage{9}
+    \subitem {PermutationCipher}, \hyperpage{8}
+  \item {PermutationCipher.h}, \hyperpage{11}
+
+\end{theindex}
